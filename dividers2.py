@@ -10,6 +10,5 @@ def divider(n):
         print ("Это составное число")
     else:
         print ("Это простое число")
-
-print("Контроль не пройден")        
+       
 divider(int(input("Введите число:")))
